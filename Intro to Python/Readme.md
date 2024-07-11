@@ -6,3 +6,7 @@ The exercises are from the textbook "Intro to Python" by  Paul Deitel and Harvey
 Print-ISBN: 978-1-292-36490-2
 E-ISBN: 978-1-292-36493-3
 
+The exercises are Copyright 2020 by Pearson Education, Inc. All Rights Reserved.
+
+The solutions are my personal effort to get better in Python!
+
